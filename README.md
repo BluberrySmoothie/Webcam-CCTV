@@ -2,6 +2,10 @@
 
 A Python-based CCTV recording application that automatically captures photos at regular intervals and converts them into variable frame rate (VFR) videos. Features automatic brightness adjustment, camera reconnection, and intelligent disk space management.
 
+## Support the Project
+If you like my work, feel free to buy me a coffee! ☕
+https://buymeacoffee.com/BluberrySmoothie
+
 ## Features
 
 - **Multi-Camera Support**: Automatically detects and lists all available cameras on your system
